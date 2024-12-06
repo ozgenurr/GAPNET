@@ -1,5 +1,3 @@
-All experiments in this study were conducted using the Google Colab environment. A100 GPU was used.
-
 ## Data
 Classification was performed on apple, grape, potato plant leaves in the Plant Village data set.
 The experiments were first performed separately on each data set, then three data sets were combined and studied on 11 classes. 
@@ -9,6 +7,6 @@ Data sets and data numbers used for Leaf Disease Classification are given in the
 
 ![data sayilari](https://github.com/user-attachments/assets/7759cbbc-06d7-4626-a8d4-db8d362014e9)
 
-
-
+## Environment
+All experiments in this study were conducted using the Google Colab environment. A100 GPU was used.
 
