@@ -10,3 +10,5 @@ Data sets and data numbers used for Leaf Disease Classification are given in the
 ## Environment
 All experiments in this study were conducted using the Google Colab environment. A100 GPU was used.
 
+## Code
+A lightweight SqueezeNet model, GAPNet, is proposed for Grape, Apple and Potato leaf disease classification. Pre-trained convolutional neural networks VGG16, ResNet50, SqueezeNet, Xception, ShuffleNet, DenseNet121 and MobileNetV2 are used to compare model performance.
