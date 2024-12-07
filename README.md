@@ -12,3 +12,27 @@ All experiments in this study were conducted using the Google Colab environment.
 
 ## Code
 A lightweight SqueezeNet model, GAPNet, is proposed for Grape, Apple and Potato leaf disease classification. Pre-trained convolutional neural networks VGG16, ResNet50, SqueezeNet, Xception, ShuffleNet, DenseNet121 and MobileNetV2 are used to compare model performance.
+
+## Requirements
+- Python 3.x
+- numpy
+- pandas
+- scikit-learn
+- keras
+- tensorflow
+  
+## Implementation Language
+Python
+
+## Libraries/Packages
+List the libraries and their versions (scikit-learn, TensorFlow, Keras, pandas, numpy, matplotlib)
+
+## Algorithms Steps
+- Import necessary libraries
+- Load dataset
+- Apply SMOTE method
+- Split data into training and testing sets
+- GAPNet
+- Train model
+- Evaluate models
+- Plotting results graphs
