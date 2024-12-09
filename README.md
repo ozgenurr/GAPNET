@@ -1,5 +1,15 @@
+## Algorithms Steps
+- Import necessary libraries
+- Load dataset
+- Apply SMOTE method
+- Split data into training and testing sets
+- GAPNet
+- Train model
+- Evaluate models
+- Plotting results graphs
+  
 ## Data
-Classification was performed on apple, grape, potato plant leaves in the Plant Village data set.
+Classification was performed on apple, grape, potato plant leaves in the Plant Village data set (https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/color).
 The experiments were first performed separately on each data set, then three data sets were combined and studied on 11 classes. 
 In order to eliminate data imbalance between classes within the data sets, data augmentation was performed with the SMOTE method.
 
@@ -27,12 +37,4 @@ Python
 ## Libraries/Packages
 List the libraries and their versions (scikit-learn, TensorFlow, Keras, pandas, numpy, matplotlib)
 
-## Algorithms Steps
-- Import necessary libraries
-- Load dataset
-- Apply SMOTE method
-- Split data into training and testing sets
-- GAPNet
-- Train model
-- Evaluate models
-- Plotting results graphs
+
